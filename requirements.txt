@@ -1,0 +1,7 @@
+streamlit
+requests
+streamlit-tags
+nltk
+Unidecode
+redis
+typesense
